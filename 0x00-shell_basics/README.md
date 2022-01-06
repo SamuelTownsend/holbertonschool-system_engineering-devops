@@ -1,2 +1,2 @@
-Basic shell 
+Basic shells
 
