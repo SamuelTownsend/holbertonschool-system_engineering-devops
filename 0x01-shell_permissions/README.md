@@ -1,1 +1,1 @@
-This directory will contain shell permission commands
+This directory is going  contain shell permission commands
