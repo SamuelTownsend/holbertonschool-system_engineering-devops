@@ -1,1 +1,1 @@
-Will contain scripts for processes and signals
+Will contain scripts for processes and signal
