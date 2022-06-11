@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this script displays pid, name, and socket of program
+netstat -1p
