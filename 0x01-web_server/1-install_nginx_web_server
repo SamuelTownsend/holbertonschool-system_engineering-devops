@@ -10,7 +10,7 @@ sudo apt-get install -y nginx
 sudo ufw allow 'Nginx HTTP'
 
 # echo 'Hello World' into html file
-sudo sh -c 'echo "Hello World" > /var/www/html/index.html'
+ sudo echo "Hello World" | sudo tee /var/www/html/index.html
 
 # start the nginx service
 sudo service nginx start
